@@ -1,3 +1,10 @@
+// ===============================================
+// PassSaverC
+// Copyright (c) 2026 aresthebellator
+// Version: 1.0 
+// ===============================================
+
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
